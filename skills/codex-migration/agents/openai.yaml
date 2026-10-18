@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Migration"
+  short_description: "Move Codex chats and files with verified recovery"
+  default_prompt: "Use $codex-migration to inspect my source and destination, then complete the authorized migration while preserving chat history and permissions."
